@@ -20,24 +20,25 @@ gallery:
 
 # Part List
 
-| Off-the-shelf Parts |
-|:---:|
-| Flanged Ball Bearing - F688ZZ |
+|           Off-the-shelf Parts          |
+|:--------------------------------------:|
+|      Flanged Ball Bearing - F688ZZ     |
 | SunFounder IIC I2C TWI 1602 Serial LCD |
-| Lead Screw - TR8x8x250mm |
-| LED 5mm |
-| Linear Rod - 8mmx200mm |
-| Lock Collar Linear Rod |
-| Linear Bearing- LM8UU |
-| Lock Collar Linear Screw |
-| Bolt - M3x10mm |
-| Thread Forming Screw - M3x8 |
-| Tee Nut - M5 |
-| Bolt - M5x8mm |
-| Motor - NEMA-17 |
-| Nut - TR8x8-4 |
-| Syringe - 20 mL |
-| V- Slot - 20x40x350 |
+|        Lead Screw - TR8x8x250mm        |
+|                 LED 5mm                |
+|         Linear Rod - 8mmx200mm         |
+|         Lock Collar Linear Rod         |
+|          Linear Bearing- LM8UU         |
+|        Lock Collar Linear Screw        |
+|             Bolt - M3x10mm             |
+|       Thread Forming Screw - M3x8      |
+|              Tee Nut - M5              |
+|              Bolt - M5x8mm             |
+|             Motor - NEMA-17            |
+|              Nut - TR8x8-4             |
+|             Syringe - 20 mL            |
+|           V- Slot - 20x40x350          |
+|                  Knob                  |
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1faab3ee761fd268?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
