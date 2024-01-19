@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Kaleb Williford"
 title_separator          : "-"
-subtitle                 : "Portfolio Website"
+subtitle                 : "Portfolio"
 name                     : &name "Kaleb Williford" # &name is a YAML anchor which can be *referenced later
 description              : &description "Digitial Portfolio"
 url                      : https://github.com/willifkj # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
