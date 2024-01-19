@@ -50,7 +50,7 @@ The purpose of the syringe pump device is to accurately control the movement of 
 |              Bolt - M5x8mm             |                      |
 |             Motor - NEMA-17            |                      |
 |              Nut - TR8x8-4             |                      |
-|             Syringe - 20 mL            |                      |
+|             Syringe - 5 & 20 mL            |                      |
 |           V- Slot - 20x40x350          |                      |
 |                  Knob                  |                      |
 |           Push Button  9.5mm           |                      |
