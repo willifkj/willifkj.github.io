@@ -55,11 +55,6 @@ The purpose of the syringe pump device is to accurately control the movement of 
 |                  Knob                  |                      |
 |           Push Button  9.5mm           |                      |
 
-# CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1faab3ee761fd268?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-{% include gallery caption="Syringe Pump Gallery" %}
-
 # Operation Instructions
 
 * **Syringe Preparation:**
@@ -89,5 +84,16 @@ The purpose of the syringe pump device is to accurately control the movement of 
   * Unplug the power cord.
 
 Note: Follow safety guidelines, and ensure proper syringe placement for effective operation.
+
+# CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1faab3ee761fd268?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+{% include gallery caption="Syringe Pump Gallery" %}
+
+# Ardunio Code
+
+The code is available here: [link](https://github.com/willifkj/Syringe-Pump/tree/main).
+
+
 
 
