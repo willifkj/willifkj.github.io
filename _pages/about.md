@@ -40,12 +40,12 @@ Kaleb possesses a comprehensive technical skill set, including proficiency in pr
 * Operating Systems: Windows, MAC OS X
 * Other Tools: Office Script
 * Engineering Tools: Circuits, Fluid Mechanics, Machine Analysis, System Dynamics, Rapid Prototyping
-* Additional Skills: Microsoft Azure, 3-D printing, Robotics, Project Management
+* Additional Skills: Microsoft Azure, Robotics, Project Management
 
 
-Kaleb can operate several different computer-controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Kaleb can operate several different computer-controlled (CNC) fabrication tools to turn 3D models into real-life parts. Kaleb has experience with the following additive manufacturing technologies:
 
-* 3D Inkjet Printing
+* 3D Printing
 * Laser-Cutting
 
 
