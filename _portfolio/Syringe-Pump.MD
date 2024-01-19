@@ -2,12 +2,13 @@
 title: "Syringe Pump"
 excerpt: "DIY syringe pump cable of 1 uL/min flow rate up to 10 mL/min"
 header:
-  image: /assets/img/Syringe-Pump.jpg
+  image: /assets/img/Pump Render 2.png
   teaser: /assets/img/Syringe-Pump.jpg
 gallery:
   - image_path: /assets/img/Pump Render.png
   - image_path: /assets/img/Pump Render 2.png
   - image_path: /assets/img/Pump Wiring.png
+  - image_path: /assets/img/Syringe-Pump.jpg
    
 ---
 
