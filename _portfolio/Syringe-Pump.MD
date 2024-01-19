@@ -14,9 +14,23 @@ gallery:
 
 # Features
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+The purpose of the syringe pump device is to accurately control the movement of a syringe's plunger for dispensing and withdrawing liquids. Designed as a cost-effective alternative to commercial models, it utilizes a stepper motor, lead screw, and custom 3D printed parts. The device is suitable for both laboratory microfluidic applications and medical institutions for administering medicine and nutrients.
+
+* **Accurate Liquid Control:** Precise movement of the syringe plunger for accurate dispensing and withdrawal of liquids.
+* **Cost-Effective DIY Design:** A cost-effective alternative to commercial syringe pumps.
+* **Modular Design:** Custom 3D printed parts, including syringe supports, motor mount, and electronics enclosure for easy assembly and disassembly.
+* **Compatibility:** Accommodates syringes of sizes 5 mL to 20 mL.
+* **Stepper Motor Mechanism:** Driven by a stepper motor coupled to a lead screw for controlled linear actuation.
+* **Limit Switch:** Incorporates a limit switch to stop motion when the plunger reaches the end.
+* **Adjustable Flow Rate:** Flow rate can be easily set and adjusted using the Arduino program.
+* **LED Indicator:** LED changes color (green, yellow, red) to indicate operational status (running, paused, complete).
+* **Clean Electrical Wiring:** Short, clean, and properly terminated electrical wiring with protection for soldered joints.
+* **LCD Display:** Displays real-time flow rate and time remaining until the syringe pump is empty.
+* **Potentiometer Control:** Flow rate can be controlled using a supplied potentiometer.
+* **Protective Enclosure:** Electrical components and connections are protected from liquid exposure within the enclosure.
+* **Unique Branding:** Incorporates unique branding, aligning with the team's name (Dimensional Divas).
+* **Quiet Operation:** Acknowledges the noise limitation in healthcare settings.
+* **Ease of Use:** Simple operation with an ON/OFF button and potentiometer for user-friendly experience.
 
 # Part List
 
