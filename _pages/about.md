@@ -8,7 +8,7 @@ title: "About Kaleb Williford"
 
 Kaleb takes pride in his versatile skill set, showcasing expertise in diverse areas such as programming languages, engineering tools, and project management.
 
-* Vanderbilt University
+* Vanderbilt University (May 2024)
   * BS Mechanical Engineering
   * Computer Science Minor
   * Digitial Fabrication Minor
