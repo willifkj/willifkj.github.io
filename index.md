@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Digital Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,16 +8,8 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Kaleb Williford, a Mechanical Engineering student at Vanderbilt University graduating in May 2024, brings a GPA of 3.53/4.00 and valuable professional experience from internships at AT&T, Smith Seckman Reid, Inc., and Nissan. His roles involved cost reduction, process optimization, and innovative solutions using programming languages like JavaScript and Python."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
