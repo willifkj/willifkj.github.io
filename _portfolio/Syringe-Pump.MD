@@ -50,7 +50,7 @@ The purpose of the syringe pump device is to accurately control the movement of 
 |              Bolt - M5x8mm             |                      |
 |             Motor - NEMA-17            |                      |
 |              Nut - TR8x8-4             |                      |
-|             Syringe - 5 & 20 mL            |                      |
+|             Syringe - 5 & 20 mL        |                      |
 |           V- Slot - 20x40x350          |                      |
 |                  Knob                  |                      |
 |           Push Button  9.5mm           |                      |
@@ -61,5 +61,33 @@ The purpose of the syringe pump device is to accurately control the movement of 
 {% include gallery caption="Syringe Pump Gallery" %}
 
 # Operation Instructions
+
+* **Syringe Preparation:**
+  * Fill the syringe with liquid.
+  * Insert the syringe into the designated holders.
+
+* **Power On:**
+  * Ensure the ON/OFF button next to the LED light is in the OFF position.
+  * Plug in the power cord. The LED turns yellow.
+
+* **Flow Rate Adjustment:**
+  * If a preset flow rate is desired, adjust the potentiometer to set the desired flow rate (0 to 100).
+  * Press the ON/OFF button to start the device at the preset speed.
+
+* **Alternate Flow Rate Adjustment:**
+  * If potentiometer control is needed, start with the knob turned completely to the left or right (0 or 100 flow rate).
+  * Press the ON/OFF button to start the device.
+  * Adjust the knob to the desired flow rate.
+
+* **Monitoring Operation:**
+  * The LCD displays the current flow rate and the time countdown.
+  * The LED turns green when the device is running, yellow when the flow rate is 0 with liquid remaining, and red when complete.
+
+* **Power Off:**
+  * Press the ON/OFF button to stop the device.
+  * The LED turns yellow when paused.
+  * Unplug the power cord.
+
+Note: Follow safety guidelines, and ensure proper syringe placement for effective operation.
 
 
