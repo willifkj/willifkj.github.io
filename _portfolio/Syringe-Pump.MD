@@ -19,7 +19,7 @@ gallery:
 * **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
 
 | Off-the-shelf Parts |
-|---|
+|:---:|
 | Flanged Ball Bearing - F688ZZ |
 | SunFounder IIC I2C TWI 1602 Serial LCD |
 | Lead Screw - TR8x8x250mm |
