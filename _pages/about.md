@@ -35,12 +35,12 @@ Kaleb takes pride in his versatile skill set, showcasing expertise in diverse ar
 
 Kaleb possesses a comprehensive technical skill set, including proficiency in programming languages expertise in engineering tools, and familiarity with diverse software applications and operating systems.
 
-* Programming Languages: Python, TypeScript, JavaScript, C++, MATLAB, VBA Basic
-* Software: Microsoft Office, Excel, SolidWorks, LabView, Fusion 360, Agile
-* Operating Systems: Windows, MAC OS X
-* Other Tools: Office Script
-* Engineering Tools: Circuits, Fluid Mechanics, Machine Analysis, System Dynamics, Rapid Prototyping
-* Additional Skills: Microsoft Azure, Robotics, Project Management
+* **Programming Languages**: Python, TypeScript, JavaScript, C++, MATLAB, VBA Basic
+* **Software**: Microsoft Office, Excel, SolidWorks, LabView, Fusion 360, Agile
+* **Operating Systems**: Windows, MAC OS X
+* **Other Tools**: Office Script
+* **Engineering Tools**: Circuits, Fluid Mechanics, Machine Analysis, System Dynamics, Rapid Prototyping
+* **Additional Skills**: Microsoft Azure, Robotics, Project Management
 
 
 Kaleb can operate several different computer-controlled (CNC) fabrication tools to turn 3D models into real-life parts. Kaleb has experience with the following additive manufacturing technologies:
