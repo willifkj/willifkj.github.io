@@ -10,8 +10,8 @@ Kaleb takes pride in his versatile skill set, showcasing expertise in diverse ar
 
 * Vanderbilt University
   * BS Mechanical Engineering
-  * Computer Science Minor
-  * Digitial Fabrication Minor
+   * Computer Science Minor
+   * Digitial Fabrication Minor
 
 ## Technical Skills
 
