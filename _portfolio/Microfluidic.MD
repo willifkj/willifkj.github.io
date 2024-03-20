@@ -73,7 +73,7 @@ To transition from the 3D printed mold to the final chip device, follow these st
    - Apply gentle pressure to facilitate bonding between the activated surfaces of the PDMS and glass slide.
    - Allow sufficient time for the bond to form, creating a secure and reliable seal between the PDMS device and the glass substrate.
 
-Following these steps meticulously ensures the successful fabrication of Lab on a Chip devices from 3D printed molds, ultimately enabling various microfluidic applications in research and diagnostics.
+Following these steps meticulously ensures the successful fabrication of chip devices from 3D printed molds, ultimately enabling various microfluidic applications in research and diagnostics.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4215c017f367074f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
