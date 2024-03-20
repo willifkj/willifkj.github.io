@@ -73,29 +73,35 @@ In essence, the incorporation of waves within the serpentine microstructure repr
 
 # Mold to Final Device
 
-To transition from the 3D printed mold to the final chip device, follow these steps:
+1. **Design and 3D Printing**:
+   - Utilize CAD software to design the desired microfluidic mold.
+   - Convert the design into STL files suitable for 3D printing.
+   - Employ a Form 3 SLA printer (Formlabs) to fabricate the mold using the appropriate resin (e.g., Grey, Clear, Black, or High Temp resin).
 
-1. **Print and Cure Mold**:
-   - Utilize a 3D printer to manufacture the mold based on the desired design specifications.
-   - After printing, cure the mold according to the material's specific curing requirements to ensure structural integrity and stability.
+2. **Print and Cure Mold**:
+   - Print the designed mold using the Form 3 SLA printer, ensuring accurate layer deposition.
+   - After printing, cure the mold to ensure structural integrity and stability, utilizing the Formlabs UV cure.
 
-2. **Parylene Deposition**:
-   - Apply a thin layer of Parylene coating onto the surface of the cured mold. Parylene serves as a biocompatible and chemically inert material, providing a smooth and uniform coating that aids in easy release of the fabricated device.
+3. **Parylene Deposition**:
+   - Transfer the cured mold to a Labcoter PDS 2010 parylene deposition machine (Specialty Coating Systems).
+   - Follow the manufacturer's instructions to coat the mold with parylene-C, utilizing 2 grams of parylene-C for each print.
+   - Automate all other parameters using the Labcoter for consistent and uniform coating.
 
-3. **Cast PDMS**:
-   - Prepare a mixture of Polydimethylsiloxane (PDMS) elastomer and its curing agent in the appropriate ratio.
-   - Pour the PDMS mixture onto the Parylene-coated mold, ensuring even distribution across all features of the mold.
-   - Degas the PDMS to remove any trapped air bubbles that may affect the device's integrity.
-   - Cure the PDMS at the designated temperature and time specified by the manufacturer to achieve proper crosslinking and solidification.
+4. **Casting PDMS**:
+   - Prepare a mixture of polydimethylsiloxane (PDMS) elastomer and curing agent at a weight ratio of 10 : 1.
+   - Pour the PDMS mixture onto the parylene-coated mold, ensuring even distribution across all features of the mold.
+   - Degas the PDMS mixture in a vacuum chamber for 30 minutes to remove trapped air bubbles.
+   - Cure the PDMS in an oven at 80 °C for 3 hours to achieve proper crosslinking and solidification.
 
-4. **Plasma Bond Glass Slide**:
-   - Prepare a clean glass slide that will serve as the substrate for the final chip device.
-   - Subject both the PDMS replica and the glass slide to plasma treatment to activate their surfaces and promote adhesion.
-   - Align the PDMS replica with the glass slide, ensuring precise registration of features.
-   - Apply gentle pressure to facilitate bonding between the activated surfaces of the PDMS and glass slide.
-   - Allow sufficient time for the bond to form, creating a secure and reliable seal between the PDMS device and the glass substrate.
+5. **Plasma Bond Glass Slide**:
+   - Clean a glass coverslip thoroughly to remove any contaminants.
+   - Utilize a PlasmaFlo PDC-FMG plasma cleaner to activate the surfaces of both the PDMS device and the glass coverslip.
+   - Align the PDMS device with the glass coverslip, ensuring proper registration of features.
+   - Use gentle pressure to facilitate bonding between the activated surfaces.
+   - If the device is intended for cell culture, sterilize it using gamma irradiation with the specified dose.
+   - Otherwise, sterilize the device in an autoclave prior to use.
 
-Following these steps meticulously ensures the successful fabrication of chip devices from 3D printed molds, ultimately enabling various microfluidic applications in research and diagnostics.
+By following these meticulous steps, you can successfully transform the 3D printed mold into the final microfluidic device, ready for various applications in research and diagnostics.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4215c017f367074f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
