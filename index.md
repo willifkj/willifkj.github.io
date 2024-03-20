@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/img/Syringe-Pump.jpg
     title: "Syringe Pump"
     excerpt: "Biomedical Delivery Device "
-  - image_path: /assets/img/Syringe-Pump.jpg
+  - image_path: /assets/img/Final_Mixing_Device.jpg
     title: "MircoFluidic"
     excerpt: "Mixing Device "
 ---
