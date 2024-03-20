@@ -5,9 +5,9 @@ header:
   image: /assets/img/Pump Render 2.png
   teaser: /assets/img/Final_Mixing_Device.jpg
 gallery:
-  - image_path: /assets/img/Pump Render.png
-  - image_path: /assets/img/Pump Render 2.png
-  - image_path: /assets/img/Pump Wiring.png
+  - image_path: /assets/img/Mold_1.jpg
+  - image_path: /assets/img/Mold_2.jpg
+  - image_path: /assets/img/Mold_3.jpg
   - image_path: /assets/img/Final_Mixing_Device.jpg
    
 ---
