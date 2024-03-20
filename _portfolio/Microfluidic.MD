@@ -39,7 +39,7 @@ In summary, while microfluidic devices offer unparalleled advantages in fluid ma
 
 ## Section A:
 
-In my design, a serpentine microstructure featuring strategically placed ridges was crafted to harness a chaotic mixing phenomenon. This microstructure, with a substantial cross-sectional area measuring 705.101 mm^2, serves as the bedrock for enhancing mixing efficiency within the chip. 
+In my design, a serpentine microstructure featuring strategically placed ridges was crafted to harness a chaotic mixing phenomenon. This microstructure, with a substantial cross-sectional area measuring 705.101 mm<sup>2</sup>, serves as the bedrock for enhancing mixing efficiency within the chip. 
 
 ### Serpentine Channels and Elongated Pathways
 
