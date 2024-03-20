@@ -62,6 +62,6 @@ The culmination of these design elements is showcased in the accompanying video,
 
 {% include gallery caption="Microfluidic Gallery" %}
 
-The video is available here: [link](https://github.com/willifkj/Syringe-Pump/tree/main).
+The video is available here: [link](https://drive.google.com/file/d/1XxTrSjvDsOyE1e8hy618UqlehHPXQZp9/view?usp=sharing).
 
 
