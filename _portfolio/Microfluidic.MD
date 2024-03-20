@@ -23,7 +23,15 @@ The purpose of the syringe pump device is to accurately control the movement of 
 
 ## My Section:
 
-In my design, a serpentine microstructure featuring strategically placed ridges was crafted to harness a chaotic mixing phenomenon. This microstructure, with a substantial cross-sectional area measuring 705.101 mm^2, serves as the bedrock for enhancing mixing efficiency within the chip. The serpentine pattern, with its winding and intersecting channels, effectively elongates the travel path of fluids traversing through the chip. This elongation not only prolongs the interaction time between the fluids but also promotes intimate mixing by ensuring thorough contact between the two substances. Moreover, the inclusion of ridges in the serpentine channels plays a pivotal role in intensifying the chaotic advection within the chip. These protrusions act as disruptors, perturbing the fluid flow and inducing turbulence at critical junctures. As a result, the fluids experience enhanced intermingling, leading to accelerated mixing rates. The culmination of these design elements is showcased in the accompanying video, where the synergistic effect of prolonged travel path and heightened chaotic advection becomes evident. By the conclusion of the second serpentine section, the once-distinct fluids seamlessly blend into a homogenous mixture, underscoring the remarkable mixing performance facilitated by the micromixer chip.
+In my design, a serpentine microstructure featuring strategically placed ridges was crafted to harness a chaotic mixing phenomenon. This microstructure, with a substantial cross-sectional area measuring 705.101 mm^2, serves as the bedrock for enhancing mixing efficiency within the chip. 
+
+The serpentine pattern, with its winding and intersecting channels, effectively elongates the travel path of fluids traversing through the chip. This elongation not only prolongs the interaction time between the fluids but also promotes intimate mixing by ensuring thorough contact between the two substances. 
+
+Moreover, the inclusion of ridges in the serpentine channels plays a pivotal role in intensifying the chaotic advection within the chip. These protrusions act as disruptors, perturbing the fluid flow and inducing turbulence at critical junctures. As a result, the fluids experience enhanced intermingling, leading to accelerated mixing rates.
+
+The culmination of these design elements is showcased in the accompanying video, where the synergistic effect of prolonged travel path and heightened chaotic advection becomes evident. By the conclusion of the second serpentine section, the once-distinct fluids seamlessly blend into a homogeneous mixture, underscoring the remarkable mixing performance facilitated by the mic
+
+##  Dzifa's Section:
 
 # Mold to Final Device
 
