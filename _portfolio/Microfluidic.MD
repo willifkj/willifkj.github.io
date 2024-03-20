@@ -39,7 +39,7 @@ Despite the advantages of microfluidic devices, achieving homogeneous mixing pos
 In summary, while microfluidic devices offer unparalleled advantages in fluid manipulation, achieving homogeneous mixing remains a key challenge. Overcoming these challenges requires innovative design strategies, such as the incorporation of active mixing mechanisms, surface modifications to mitigate surface effects, and optimization of flow conditions. Despite the difficulties, addressing the issue of homogeneous mixing in microfluidics is crucial for unlocking the full potential of these devices in various applications.
 # Mixing Sections
 
-## My Section:
+### My Section:
 
 In my design, a serpentine microstructure featuring strategically placed ridges was crafted to harness a chaotic mixing phenomenon. This microstructure, with a substantial cross-sectional area measuring 705.101 mm^2, serves as the bedrock for enhancing mixing efficiency within the chip. 
 
@@ -49,7 +49,7 @@ Moreover, the inclusion of ridges in the serpentine channels plays a pivotal rol
 
 The culmination of these design elements is showcased in the accompanying video, where the synergistic effect of prolonged travel path and heightened chaotic advection becomes evident. By the conclusion of the second serpentine section, the once-distinct fluids seamlessly blend into a homogeneous mixture, underscoring the remarkable mixing performance facilitated by the mic
 
-##  Dzifa's Section:
+###  Dzifa's Section:
 
 # Mold to Final Device
 
