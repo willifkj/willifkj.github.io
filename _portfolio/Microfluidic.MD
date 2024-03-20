@@ -47,7 +47,7 @@ Moreover, the inclusion of ridges in the serpentine channels plays a pivotal rol
 
 The culmination of these design elements is showcased in the accompanying video, where the synergistic effect of prolonged travel path and heightened chaotic advection becomes evident. By the conclusion of the second serpentine section, the once-distinct fluids seamlessly blend into a homogeneous mixture, underscoring the remarkable mixing performance facilitated by the mic
 
-###  Dzifa's Section:
+### Dzifa's Section:
 
 # Mold to Final Device
 
