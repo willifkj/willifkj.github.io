@@ -15,7 +15,7 @@ feature_row:
     excerpt: "Biomedical Delivery Device "
   - image_path: /assets/img/Final_Mixing_Device.jpg
     title: "MircoFluidic"
-    excerpt: "Mixing Device "
+    excerpt: "Mircomixer Chip "
 ---
 
 {% include feature_row %}
