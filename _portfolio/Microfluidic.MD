@@ -41,7 +41,7 @@ In summary, while microfluidic devices offer unparalleled advantages in fluid ma
 
 In my design, a serpentine microstructure featuring strategically placed ridges was crafted to harness a chaotic mixing phenomenon. This microstructure, with a substantial cross-sectional area measuring 705.101 mm^2, serves as the bedrock for enhancing mixing efficiency within the chip. 
 
-The serpentine pattern, with its winding and intersecting channels, effectively elongates the travel path of fluids traversing through the chip. This elongation not only prolongs the interaction time between the fluids but also promotes intimate mixing by ensuring thorough contact between the two substances. 
+The serpentine pattern, with its winding and channels, effectively elongates the travel path of fluids traversing through the chip. This elongation not only prolongs the interaction time between the fluids but also promotes intimate mixing by ensuring thorough contact between the two substances. 
 
 Moreover, the inclusion of ridges in the serpentine channels plays a pivotal role in intensifying the chaotic advection within the chip. These protrusions act as disruptors, perturbing the fluid flow and inducing turbulence at critical junctures. As a result, the fluids experience enhanced intermingling, leading to accelerated mixing rates.
 
