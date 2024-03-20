@@ -2,7 +2,7 @@
 title: "Microfluidic"
 excerpt: "Microfluidic Mixing Device made leveraging the high-resolution printing capabilities of the Form 3 SLA printers "
 header:
-  image: /assets/img/Pump Render 2.png
+  image: /assets/img/uFluidic Device Mold Render.jpg
   teaser: /assets/img/Final_Mixing_Device.jpg
 gallery:
   - image_path: /assets/img/Mold_1.jpg
