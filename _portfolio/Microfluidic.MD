@@ -1,6 +1,6 @@
 ---
-title: "Syringe Pump"
-excerpt: "DIY syringe pump cable of 1 uL/min flow rate up to 10 mL/min"
+title: "Microfluidic"
+excerpt: "Microfluidic Mixing Device made leveraging the high-resolution printing capabilities of the Form 3 SLA printers "
 header:
   image: /assets/img/Pump Render 2.png
   teaser: /assets/img/Final_Mixing_Device.jpg
@@ -8,7 +8,7 @@ gallery:
   - image_path: /assets/img/Pump Render.png
   - image_path: /assets/img/Pump Render 2.png
   - image_path: /assets/img/Pump Wiring.png
-  - image_path: /assets/img/Syringe-Pump.jpg
+  - image_path: /assets/img/Final_Mixing_Device.jpg
    
 ---
 
