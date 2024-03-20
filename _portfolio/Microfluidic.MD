@@ -89,8 +89,6 @@ Note: Follow safety guidelines, and ensure proper syringe placement for effectiv
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4215c017f367074f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Syringe Pump Gallery" %}
+{% include gallery caption="Microfluidic Gallery" %}
 
-# Ardunio Code
 
-The code is available here: [link](https://github.com/willifkj/Syringe-Pump/tree/main).
