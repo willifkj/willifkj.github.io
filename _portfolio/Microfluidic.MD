@@ -51,7 +51,7 @@ The culmination of these design elements is showcased in the accompanying video,
 
 # Mold to Final Device
 
-To transition from the 3D printed mold to the final Lab on a Chip device, follow these steps:
+To transition from the 3D printed mold to the final chip device, follow these steps:
 
 1. **Print and Cure Mold**:
    - Utilize a 3D printer to manufacture the mold based on the desired design specifications.
