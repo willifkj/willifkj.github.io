@@ -67,7 +67,7 @@ To transition from the 3D printed mold to the final chip device, follow these st
    - Cure the PDMS at the designated temperature and time specified by the manufacturer to achieve proper crosslinking and solidification.
 
 4. **Plasma Bond Glass Slide**:
-   - Prepare a clean glass slide that will serve as the substrate for the final Lab on a Chip device.
+   - Prepare a clean glass slide that will serve as the substrate for the final chip device.
    - Subject both the PDMS replica and the glass slide to plasma treatment to activate their surfaces and promote adhesion.
    - Align the PDMS replica with the glass slide, ensuring precise registration of features.
    - Apply gentle pressure to facilitate bonding between the activated surfaces of the PDMS and glass slide.
