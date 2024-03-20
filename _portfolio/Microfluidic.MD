@@ -30,9 +30,7 @@ Despite the advantages of microfluidic devices, achieving homogeneous mixing pos
 
 2. **Limited Diffusion**: Diffusion, the primary mechanism for molecular transport in microfluidic channels, is slow compared to turbulent mixing in macroscale systems. Consequently, achieving rapid and efficient mixing solely through diffusion is challenging.
 
-3. **Surface Effects**: Interactions between fluids and channel surfaces, such as adsorption, can lead to non-uniform flow profiles and hinder mixing efficiency.
-
-4. **Scale Effects**: The small dimensions of microfluidic channels result in large surface-to-volume ratios, amplifying surface effects and further complicating mixing.
+3. **Surface Effects**: Interactions between fluids and channel surfaces, such as capillary action, can lead to non-uniform flow profiles and hinder mixing efficiency.
 
 ### Conclusion
 
@@ -53,9 +51,29 @@ The culmination of these design elements is showcased in the accompanying video,
 
 # Mold to Final Device
 
-* **Syringe Preparation:**
-  * Fill the syringe with liquid.
-  * Insert the syringe into the designated holders.
+To transition from the 3D printed mold to the final Lab on a Chip device, follow these steps:
+
+1. **Print and Cure Mold**:
+   - Utilize a 3D printer to manufacture the mold based on the desired design specifications.
+   - After printing, cure the mold according to the material's specific curing requirements to ensure structural integrity and stability.
+
+2. **Parylene Deposition**:
+   - Apply a thin layer of Parylene coating onto the surface of the cured mold. Parylene serves as a biocompatible and chemically inert material, providing a smooth and uniform coating that aids in easy release of the fabricated device.
+
+3. **Cast PDMS**:
+   - Prepare a mixture of Polydimethylsiloxane (PDMS) elastomer and its curing agent in the appropriate ratio.
+   - Pour the PDMS mixture onto the Parylene-coated mold, ensuring even distribution across all features of the mold.
+   - Degas the PDMS to remove any trapped air bubbles that may affect the device's integrity.
+   - Cure the PDMS at the designated temperature and time specified by the manufacturer to achieve proper crosslinking and solidification.
+
+4. **Plasma Bond Glass Slide**:
+   - Prepare a clean glass slide that will serve as the substrate for the final Lab on a Chip device.
+   - Subject both the PDMS replica and the glass slide to plasma treatment to activate their surfaces and promote adhesion.
+   - Align the PDMS replica with the glass slide, ensuring precise registration of features.
+   - Apply gentle pressure to facilitate bonding between the activated surfaces of the PDMS and glass slide.
+   - Allow sufficient time for the bond to form, creating a secure and reliable seal between the PDMS device and the glass substrate.
+
+Following these steps meticulously ensures the successful fabrication of Lab on a Chip devices from 3D printed molds, ultimately enabling various microfluidic applications in research and diagnostics.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4215c017f367074f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
