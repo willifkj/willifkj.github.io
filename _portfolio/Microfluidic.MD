@@ -55,7 +55,7 @@ The culmination of these design elements is showcased in the accompanying video,
 
 ## Section B:
 
-In my partner's approach, She replaced ridges with strategically positioned waves within the serpentine microstructure to exploit chaotic mixing phenomena. This intricate design serves as the cornerstone for optimizing mixing efficiency within the microfluidic chip.
+In my partner's approach, she replaced ridges with strategically positioned waves within the serpentine microstructure to exploit chaotic mixing phenomena. This intricate design serves as the cornerstone for optimizing mixing efficiency within the microfluidic chip.
 
 ### Serpentine Channels and Elongated Pathways
 
