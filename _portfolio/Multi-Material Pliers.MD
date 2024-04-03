@@ -21,7 +21,6 @@ In the realm of additive manufacturing, the design and production of multi-mater
 
 Beyond the realm of pliers, print-in-place technology finds diverse applications across various industries. In the medical sector, for instance, prosthetics benefit from the seamless integration of components, enhancing comfort and usability for patients. Additionally, in the field of soft robotics, the ability to print both soft and hard materials within a single design enables the creation of versatile and adaptable robotic systems.
 
-In essence, print-in-place technology represents a transformative approach to manufacturing, offering unparalleled flexibility, efficiency, and innovation across a myriad of applications. As we delve into the design and production of multi-material pliers capable of gripping through-hole resistors, we embark on a journey that exemplifies the ingenuity and potential of additive manufacturing in addressing real-world challenges.
 
 ### Application: Pliers Design
 
@@ -45,7 +44,7 @@ Further defining the device's capabilities is its jaw capacity, which stands at 
 
 Complementing the jaw capacity is the jaw length, which extends to 32.611 millimeters. This dimension denotes the distance along the inner surface of the jaw from its tip to its base or pivot point. It illustrates the reach or depth to which the jaws can securely grasp objects, offering insights into the device's operational range.
 
-Together, these specifications paint a comprehensive picture of the device's capabilities and limitations. The 30-degree inner jaw angle suggests optimized gripping at a specific orientation, while the specified jaw capacity and length provide boundaries for the size and depth of objects the device can effectively handle. Armed with this information, users can better comprehend how to employ the device in various tasks and environments, maximizing its utility and performance.
+Armed with this information, users can better comprehend how to employ the device in various tasks and environments, maximizing its utility and performance.
 
 ### Print Settings
 
@@ -60,21 +59,6 @@ Furthermore, the filament settings for each material are meticulously calibrated
 On the other hand, TPU filament demands slightly different parameters to achieve optimal results. Similarly, a bed temperature of 60 degrees Celsius is maintained to promote adhesion and minimize distortion. However, due to the unique properties of TPU, the starting layer is extruded at a higher temperature of 235 degrees Celsius, ensuring proper flow and adhesion. Subsequent layers are then printed at 225 degrees Celsius to maintain flexibility while maintaining structural integrity.
 
 In essence, the comprehensive print settings for 3D printed pliers encompass a meticulous balance of parameters tailored to each filament type, ensuring exceptional performance, durability, and reliability in the final product.
-
-
-### Conclusion
-
-The design and production of multi-material pliers exemplify the transformative potential of print-in-place technology in the realm of additive manufacturing. By seamlessly integrating multiple components during printing, this innovative approach eliminates the need for post-print assembly, streamlining production processes and enhancing efficiency.
-
-However, the success of print-in-place designs hinges on careful consideration of material selection and compatibility. Factors such as surface energies, chemical composition, shrinkage, cooling rates, and mechanical properties must be meticulously assessed to ensure proper bonding and structural integrity. This nuanced understanding of material properties serves as the cornerstone for achieving functional and reliable print-in-place components.
-
-The application of multi-material pliers showcases the practical implications of this design approach. By leveraging the flexibility of TPU for elastic jaws and the rigidity of PLA for handles and triggers, these pliers effectively grip and pick up through-hole resistors with ease. The integration of form-fit dove-tail connections further enhances flexibility and durability, ensuring optimal performance under various conditions.
-
-Moreover, finite element analysis validates the structural integrity of the design, confirming its ability to withstand repeated use without failure. Ergonomic considerations, such as the applied force during operation, ensure user-friendly functionality, enhancing usability and comfort.
-
-Beyond the realm of pliers, print-in-place technology finds diverse applications across industries. From prosthetics in the medical sector to soft robotics, the seamless integration of components offers unparalleled flexibility, efficiency, and innovation.
-
-To sum, the design and production of multi-material pliers underscore the ingenuity and potential of additive manufacturing in addressing real-world challenges. By embracing print-in-place technology and leveraging material compatibility, we embark on a journey towards enhanced efficiency, functionality, and innovation in manufacturing.
 
 
 <div style="text-align:center">
