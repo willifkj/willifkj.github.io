@@ -23,6 +23,8 @@ Beyond the realm of pliers, print-in-place technology finds diverse applications
 
 In essence, print-in-place technology represents a transformative approach to manufacturing, offering unparalleled flexibility, efficiency, and innovation across a myriad of applications. As we delve into the design and production of multi-material pliers capable of gripping through-hole resistors, we embark on a journey that exemplifies the ingenuity and potential of additive manufacturing in addressing real-world challenges.
 
+### Application: Pliers Design
+
 
 
 <div style="text-align:center">
