@@ -24,7 +24,7 @@ For instance, in biomedical diagnostics, accurate mixing of biological samples w
 
 
 <div style="text-align:center">
-    <img src="/assets/img/Safety_Factor.gif" alt="FEA Analysis" />
+    <img src="/assets/img/Safety Factor.gif" alt="FEA Analysis" />
 </div>
 
 ### Specifications  
