@@ -3,7 +3,7 @@ title: "Multi-Material Pliers"
 excerpt: "Multi-Material Pliers made leveraging a multi-material printer loaded with PLA and TPU"
 header:
   image: /assets/img/Pliers Final.jpg
-  teaser: /assets/img/Final_Mixing_Device.jpg
+  teaser: /assets/img/Pilers v23.jpg
 gallery:
   - image_path: /assets/img/Mold_1.jpg
   - image_path: /assets/img/Mold_2.jpg
