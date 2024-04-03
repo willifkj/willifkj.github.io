@@ -21,6 +21,12 @@ One essential application of microfluidic devices is achieving homogeneous mixin
 
 For instance, in biomedical diagnostics, accurate mixing of biological samples with reagents is necessary for conducting assays, detecting biomarkers, and analyzing biochemical reactions. Similarly, in chemical synthesis, homogeneous mixing ensures uniform distribution of reactants, leading to consistent product quality and yield.
 
+
+
+<div style="text-align:center">
+    <img src="/assets/img/Safety_Factor.gif" alt="FEA Analysis" />
+</div>
+
 ### Specifications  
 
 Despite the advantages of microfluidic devices, achieving homogeneous mixing poses significant challenges. The primary obstacles include:
