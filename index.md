@@ -16,7 +16,7 @@ feature_row:
   - image_path: /assets/img/Final_Mixing_Device.jpg
     title: "MircoFluidic"
     excerpt: "Mircomixer Chip "
-  - image_path: /assets/img/Final_Mixing_Device.jpg
+  - image_path: /assets/img/Pliers Final.jpg
     title: "Multi-Material Pliers"
     excerpt: "Jointless Pliers"
 ---
