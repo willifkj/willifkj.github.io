@@ -32,6 +32,8 @@ To enhance the connection between the flexible jaws and the rigid components, a 
     <img src="/assets/img/Safety_Factor_loop.gif" alt="FEA Analysis" loop="infinite" />
 </div>  
 
+[Leave a blank line here]
+
 Considering ergonomic factors, a minimum applied force during operation is around 0.15 pounds, well below the average grip strength of an adult (approximately 50 pounds). This design consideration ensures ease of use for the trigger finger, enhancing user experience and usability.
 
 Prior to arriving at the final design iteration, an earlier version faced usability challenges. Although it functioned similarly, its smaller size caused discomfort and cramping for average users. Subsequent adjustments in the final design address these ergonomic concerns, resulting in a more user-friendly and comfortable handling experience.
