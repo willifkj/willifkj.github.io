@@ -102,7 +102,9 @@ In essence, the incorporation of waves within the serpentine microstructure repr
 
 By following these meticulous steps, you can successfully transform the 3D printed mold into the final microfluidic device, ready for various applications in research and diagnostics.
 
-![Pliers in Action](/assets/img/Pliers - Made with Clipchamp (1).gif)
+<div style="text-align:center">
+    <img src="/assets/img/Pliers - Made with Clipchamp (1).gif" alt="Pliers in Action" />
+</div>
 
 
 # CAD Model
