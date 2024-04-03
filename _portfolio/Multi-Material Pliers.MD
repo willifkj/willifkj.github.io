@@ -27,10 +27,11 @@ In the context of designing pliers, a strategic blend of materials is employed t
 
 To enhance the connection between the flexible jaws and the rigid components, a form-fit dove-tail mechanism is utilized. This design feature not only promotes flexibility at the junction points on the handle but also balances the overall assembly's flexibility with durability. To validate the design's structural integrity, a finite element analysis (FEA) is conducted using ANSYS software. The analysis confirms a comfortable safety factor for fatigue loading, as depicted in the accompanying gif. The simulation reveals that the pliers can endure repeated use for up to 1e9 cycles without failure, ensuring long-term durability.
 
----
+
 <div style="text-align:center">
     <img src="/assets/img/Safety_Factor_loop.gif" alt="FEA Analysis" loop="infinite" />
 </div>
+
 
 Considering ergonomic factors, a minimum applied force during operation is around 0.15 pounds, well below the average grip strength of an adult (approximately 50 pounds). This design consideration ensures ease of use for the trigger finger, enhancing user experience and usability.
 
