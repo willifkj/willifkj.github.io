@@ -28,7 +28,7 @@ In essence, print-in-place technology represents a transformative approach to ma
 
 
 <div style="text-align:center">
-    <img src="/assets/img/Safety_Factor.gif" alt="FEA Analysis" />
+    <img src="/assets/img/Safety_Factor.gif" alt="FEA Analysis" loop="infinite"/>
 </div>
 
 ### Specifications  
