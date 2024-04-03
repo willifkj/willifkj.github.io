@@ -1,8 +1,8 @@
 ---
-title: "Microfluidic"
-excerpt: "Microfluidic Mixing Device made leveraging the high-resolution printing capabilities of the Form 3 SLA printers "
+title: "Multi-Material Pliers"
+excerpt: "Multi-Material Pliers made leveraging a multi-material printer loaded with PLA and TPU"
 header:
-  image: /assets/img/uFluidic Device Mold Render.jpg
+  image: /assets/img/Pliers Final.jpg
   teaser: /assets/img/Final_Mixing_Device.jpg
 gallery:
   - image_path: /assets/img/Mold_1.jpg
