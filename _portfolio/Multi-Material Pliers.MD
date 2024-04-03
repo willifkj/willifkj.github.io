@@ -61,7 +61,7 @@ Furthermore, the filament settings for each material are meticulously calibrated
 
 On the other hand, TPU filament demands slightly different parameters to achieve optimal results. Similarly, a bed temperature of 60 degrees Celsius is maintained to promote adhesion and minimize distortion. However, due to the unique properties of TPU, the starting layer is extruded at a higher temperature of 235 degrees Celsius, ensuring proper flow and adhesion. Subsequent layers are then printed at 225 degrees Celsius to maintain flexibility while maintaining structural integrity.
 
-In summary, the comprehensive print settings for 3D printed pliers encompass a meticulous balance of parameters tailored to each filament type, ensuring exceptional performance, durability, and reliability in the final product.
+In essence, the comprehensive print settings for 3D printed pliers encompass a meticulous balance of parameters tailored to each filament type, ensuring exceptional performance, durability, and reliability in the final product.
 
 
 ### Conclusion
@@ -72,6 +72,7 @@ In summary, while microfluidic devices offer unparalleled advantages in fluid ma
 <div style="text-align:center">
     <img src="/assets/img/Pliers - Made with Clipchamp (1).gif" alt="Pliers in Action" />
 </div>
+
 
 
 # CAD Model
