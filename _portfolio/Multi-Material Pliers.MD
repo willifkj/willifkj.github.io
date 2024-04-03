@@ -36,8 +36,6 @@ Despite the advantages of microfluidic devices, achieving homogeneous mixing pos
 ### Conclusion
 
 In summary, while microfluidic devices offer unparalleled advantages in fluid manipulation, achieving homogeneous mixing remains a key challenge. Overcoming these challenges requires innovative design strategies, such as the incorporation of active mixing mechanisms, surface modifications to mitigate surface effects, and optimization of flow conditions. Despite the difficulties, addressing the issue of homogeneous mixing in microfluidics is crucial for unlocking the full potential of these devices in various applications.
-# Mixing Sections
-
 
 
 <div style="text-align:center">
@@ -49,6 +47,4 @@ In summary, while microfluidic devices offer unparalleled advantages in fluid ma
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e2f2a4595556ebb0d?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Multi-Material Pliers Gallery" %}
-
-The video is available here: [link](https://drive.google.com/file/d/1XxTrSjvDsOyE1e8hy618UqlehHPXQZp9/view?usp=sharing).
 
