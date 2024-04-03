@@ -5,9 +5,9 @@ header:
   image: /assets/img/Pilers v23.jpg
   teaser: /assets/img/Pliers Final.jpg
 gallery:
-  - image_path: /assets/img/Mold_1.jpg
-  - image_path: /assets/img/Mold_2.jpg
-  - image_path: /assets/img/Mold_3.jpg
+  - image_path: /assets/img/Pliers Prototype.jpg
+  - image_path: /assets/img/Pliers Iterations.jpg
+  - image_path: /assets/img/Pliers Final.jpg
   - image_path: /assets/img/Final_Mixing_Device.jpg
 ---
 
