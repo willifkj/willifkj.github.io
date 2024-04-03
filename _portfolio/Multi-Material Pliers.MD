@@ -8,7 +8,6 @@ gallery:
   - image_path: /assets/img/Pliers Prototype.jpg
   - image_path: /assets/img/Pliers Iterations.jpg
   - image_path: /assets/img/Pliers Final.jpg
-  - image_path: /assets/img/Final_Mixing_Device.jpg
 ---
 
 
