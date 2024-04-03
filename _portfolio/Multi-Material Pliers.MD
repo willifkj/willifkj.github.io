@@ -39,6 +39,15 @@ Despite the advantages of microfluidic devices, achieving homogeneous mixing pos
 
 ### Print Settings
 
+The mechanical component under consideration is characterized by several key specifications, each essential for understanding its functionality and potential applications. First and foremost, the inner jaw angle of the device is precisely set at 30 degrees. This angle delineates the relationship between the inner surfaces of the jaws, dictating how objects will be gripped or secured.
+
+Further defining the device's capabilities is its jaw capacity, which stands at 16.881 millimeters. This measurement signifies the maximum width or diameter of objects that can be effectively accommodated by the device's jaws. It provides a clear boundary for the size range of objects the device is designed to handle securely.
+
+Complementing the jaw capacity is the jaw length, which extends to 32.611 millimeters. This dimension denotes the distance along the inner surface of the jaw from its tip to its base or pivot point. It illustrates the reach or depth to which the jaws can securely grasp objects, offering insights into the device's operational range.
+
+Together, these specifications paint a comprehensive picture of the device's capabilities and limitations. The 30-degree inner jaw angle suggests optimized gripping at a specific orientation, while the specified jaw capacity and length provide boundaries for the size and depth of objects the device can effectively handle. Armed with this information, users can better comprehend how to employ the device in various tasks and environments, maximizing its utility and performance.
+
+
 ### Conclusion
 
 In summary, while microfluidic devices offer unparalleled advantages in fluid manipulation, achieving homogeneous mixing remains a key challenge. Overcoming these challenges requires innovative design strategies, such as the incorporation of active mixing mechanisms, surface modifications to mitigate surface effects, and optimization of flow conditions. Despite the difficulties, addressing the issue of homogeneous mixing in microfluidics is crucial for unlocking the full potential of these devices in various applications.
