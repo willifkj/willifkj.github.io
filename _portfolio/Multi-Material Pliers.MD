@@ -26,11 +26,12 @@ Beyond the realm of pliers, print-in-place technology finds diverse applications
 In the context of designing pliers, a strategic blend of materials is employed to optimize functionality and durability. The inherent flexibility of TPU material is harnessed to imbue the jaws with elasticity, while PLA serves as the foundation for rigid components such as the handle and trigger. This configuration ensures that forces applied to the handle are efficiently transmitted to the jaws, facilitating effective gripping action. The jaws themselves function as spring elements, reverting to their original position when the trigger is released.
 
 To enhance the connection between the flexible jaws and the rigid components, a form-fit dove-tail mechanism is utilized. This design feature not only promotes flexibility at the junction points on the handle but also balances the overall assembly's flexibility with durability. To validate the design's structural integrity, a finite element analysis (FEA) is conducted using ANSYS software. The analysis confirms a comfortable safety factor for fatigue loading, as depicted in the accompanying gif. The simulation reveals that the pliers can endure repeated use for up to 1e9 cycles without failure, ensuring long-term durability.
+
 ---
 <div style="text-align:center">
     <img src="/assets/img/Safety_Factor_loop.gif" alt="FEA Analysis" loop="infinite" />
 </div>
----
+
 Considering ergonomic factors, a minimum applied force during operation is around 0.15 pounds, well below the average grip strength of an adult (approximately 50 pounds). This design consideration ensures ease of use for the trigger finger, enhancing user experience and usability.
 
 Prior to arriving at the final design iteration, an earlier version faced usability challenges. Although it functioned similarly, its smaller size caused discomfort and cramping for average users. Subsequent adjustments in the final design address these ergonomic concerns, resulting in a more user-friendly and comfortable handling experience.
