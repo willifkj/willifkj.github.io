@@ -26,18 +26,9 @@ In essence, print-in-place technology represents a transformative approach to ma
 ### Application: Pliers Design
 
 
-
 <div style="text-align:center">
-    <img src="/assets/img/Safety_Factor.gif" alt="FEA Analysis" loop="infinite"/>
+    <img src="/assets/img/Safety_Factor.gif" alt="FEA Analysis" loop="infinite" />
 </div>
-
-<div style="text-align:center">
-    <video width="320" height="240" autoplay loop muted>
-        <source src="/assets/img/Safety_Factor.gif" type="video/gif">
-        Your browser does not support the video tag.
-    </video>
-</div>
-
 
 ### Specifications  
 
