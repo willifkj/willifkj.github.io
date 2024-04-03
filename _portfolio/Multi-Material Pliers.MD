@@ -10,7 +10,6 @@ gallery:
   - image_path: /assets/img/Pliers Final.jpg
 ---
 
-
 ## Introduction to Multi-Material Prints
 
 Print-in-place parts represent an innovative approach to manufacturing, wherein multiple components are seamlessly integrated and printed together, resulting in immediate functionality upon completion of the print. This technique offers significant advantages in terms of efficiency and convenience, eliminating the need for assembly of individual parts post-printing. However, achieving optimal functionality in print-in-place designs necessitates careful consideration of material selection, particularly in relation to factors such as surface energies, chemical composition, shrinkage, cooling rates, and mechanical compatibility. 
@@ -27,11 +26,11 @@ Beyond the realm of pliers, print-in-place technology finds diverse applications
 In the context of designing pliers, a strategic blend of materials is employed to optimize functionality and durability. The inherent flexibility of TPU material is harnessed to imbue the jaws with elasticity, while PLA serves as the foundation for rigid components such as the handle and trigger. This configuration ensures that forces applied to the handle are efficiently transmitted to the jaws, facilitating effective gripping action. The jaws themselves function as spring elements, reverting to their original position when the trigger is released.
 
 To enhance the connection between the flexible jaws and the rigid components, a form-fit dove-tail mechanism is utilized. This design feature not only promotes flexibility at the junction points on the handle but also balances the overall assembly's flexibility with durability. To validate the design's structural integrity, a finite element analysis (FEA) is conducted using ANSYS software. The analysis confirms a comfortable safety factor for fatigue loading, as depicted in the accompanying gif. The simulation reveals that the pliers can endure repeated use for up to 1e9 cycles without failure, ensuring long-term durability.
-
+---
 <div style="text-align:center">
     <img src="/assets/img/Safety_Factor_loop.gif" alt="FEA Analysis" loop="infinite" />
 </div>
-
+---
 Considering ergonomic factors, a minimum applied force during operation is around 0.15 pounds, well below the average grip strength of an adult (approximately 50 pounds). This design consideration ensures ease of use for the trigger finger, enhancing user experience and usability.
 
 Prior to arriving at the final design iteration, an earlier version faced usability challenges. Although it functioned similarly, its smaller size caused discomfort and cramping for average users. Subsequent adjustments in the final design address these ergonomic concerns, resulting in a more user-friendly and comfortable handling experience.
@@ -65,7 +64,7 @@ In essence, the comprehensive print settings for 3D printed pliers encompass a m
     <img src="/assets/img/Pliers - Made with Clipchamp (1).gif" alt="Pliers in Action" />
 </div>
 
-
+---
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e2f2a4595556ebb0d?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
