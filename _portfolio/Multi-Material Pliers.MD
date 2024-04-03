@@ -106,7 +106,7 @@ By following these meticulous steps, you can successfully transform the 3D print
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4215c017f367074f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Microfluidic Gallery" %}
+{% include gallery caption="Multi-Material Pliers Gallery" %}
 
 The video is available here: [link](https://drive.google.com/file/d/1XxTrSjvDsOyE1e8hy618UqlehHPXQZp9/view?usp=sharing).
 
