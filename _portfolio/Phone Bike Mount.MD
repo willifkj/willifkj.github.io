@@ -12,13 +12,7 @@ gallery:
 
 ## Introduction to Top-down modeling
 
-Print-in-place parts represent an innovative approach to manufacturing, wherein multiple components are seamlessly integrated and printed together, resulting in immediate functionality upon completion of the print. This technique offers significant advantages in terms of efficiency and convenience, eliminating the need for assembly of individual parts post-printing. However, achieving optimal functionality in print-in-place designs necessitates careful consideration of material selection, particularly in relation to factors such as surface energies, chemical composition, shrinkage, cooling rates, and mechanical compatibility. 
-
-Commonly paired materials, such as PLA and TPU, PLA and PVA, and ABS and HIPS, demonstrate the importance of selecting compatible materials to ensure proper bonding and structural integrity. This nuanced understanding of material properties forms the foundation for successful print-in-place projects.
-
-In the realm of additive manufacturing, the design and production of multi-material pliers serve as a compelling example of this design process. These pliers feature a rigid handle and trigger mechanism seamlessly integrated with elastic jaws, constructed to grip and pick up through-hole resistors effortlessly upon the completion of printing. Such intricate assemblies underscore the significance of material compatibility and precise engineering in achieving functional and reliable print-in-place components.
-
-Beyond the realm of pliers, print-in-place technology finds diverse applications across various industries. In the medical sector, for instance, prosthetics benefit from the seamless integration of components, enhancing comfort and usability for patients. Additionally, in the field of soft robotics, the ability to print both soft and hard materials within a single design enables the creation of versatile and adaptable robotic systems.
+Top-down 3D modeling is a technique that utilizes the known 3D structure of objects in a scene to estimate depth and structure for new and related 3D components streamlining the design process without the need for constantly measuring physical objects. In addition, the entire assembly lives in one document allowing for easy joint structuring for a complete assembly. When designing the mount, one used the handlebars and a phone model as structures to build from, eliminating measurements for all relative constraints without looking at external data.
 
 
 ### Application: Design Constraints
