@@ -17,10 +17,11 @@ Top-down 3D modeling is a technique that utilizes the known 3D structure of obje
 
 ### Application: Design Constraints
 
-In the context of designing pliers, a strategic blend of materials is employed to optimize functionality and durability. The inherent flexibility of TPU material is harnessed to imbue the jaws with elasticity, while PLA serves as the foundation for rigid components such as the handle and trigger. This configuration ensures that forces applied to the handle are efficiently transmitted to the jaws, facilitating effective gripping action. The jaws themselves function as spring elements, reverting to their original position when the trigger is released.
+In the quest to create a versatile bike phone holder that enhances the cycling experience, the focus remains on effortless attachment and optimal functionality. Engineered to securely grip 23-25 mm handlebars without causing any damage, the holder eliminates the hassle of drilling or using set screws during installation. Additionally, attaching the phone is seamless, enabling uninterrupted access to all its features. With the ability to adjust between vertical and horizontal orientations during the ride, the holder offers both convenience and adaptability. Whether one prefers landscape or portrait mode, the holder ensures an enjoyable and distraction-free biking experience.
 
-To enhance the connection between the flexible jaws and the rigid components, a form-fit dove-tail mechanism is utilized. This design feature not only promotes flexibility at the junction points on the handle but also balances the overall assembly's flexibility with durability. To validate the design's structural integrity, a finite element analysis (FEA) is conducted using ANSYS software. The analysis confirms a comfortable safety factor for fatigue loading, as depicted in the accompanying gif. The simulation reveals that the pliers can endure repeated use for up to 1e9 cycles without failure, ensuring long-term durability.
+To securely attach the holder to handlebars of various diameters, a versatile screw and nut system was employed. Similarly, a screw and cap mechanism are utilized to secure a ball joint connected to the phone holder, enabling users to freely adjust and rotate their device for optimal viewing angles.
 
+Constructed entirely from PLA, a prevalent 3D printing material, the mount provides both rigidity to support the phone and threading for the ball joint connection. Additionally, the thin PLA construction offers flexibility, facilitating easy insertion and removal of the phone. This combination of rigidity and flexibility ensures stability while accommodating seamless phone adjustments, enhancing user convenience and overall functionality.
 ### Assembly instructions
 
 
