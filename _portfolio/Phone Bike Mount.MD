@@ -1,13 +1,13 @@
 ---
-title: "Multi-Material Pliers"
-excerpt: "Multi-Material Pliers made leveraging a multi-material printer loaded with PLA and TPU"
+title: "Phone Bike Mount"
+excerpt: "Top-down modeled mount made with PLA"
 header:
-  image: /assets/img/Pilers v23.png
+  image: /assets/img/Vertical Phone.jpg
   teaser: /assets/img/Pliers Final.jpg
 gallery:
-  - image_path: /assets/img/Pliers Prototype.jpg
-  - image_path: /assets/img/Pliers Iterations.jpg
-  - image_path: /assets/img/Pliers Final.jpg
+  - image_path: /assets/img/Side Phone.jpg
+  - image_path: /assets/img/Horizontal Phone.jpg
+  - image_path: /assets/img/Vertical Phone.jpg
 ---
 
 ## Introduction to Multi-Material Prints
