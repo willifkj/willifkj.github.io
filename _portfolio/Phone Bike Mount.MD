@@ -8,6 +8,7 @@ gallery:
   - image_path: /assets/img/Side Phone.jpg
   - image_path: /assets/img/Horizontal Phone.jpg
   - image_path: /assets/img/Vertical Phone.jpg
+  - image_path: /assets/img/Empty Mount.jpg
 ---
 
 ## Introduction to Top-down modeling
