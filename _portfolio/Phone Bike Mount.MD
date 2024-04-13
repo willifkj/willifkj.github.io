@@ -62,14 +62,9 @@ On the other hand, TPU filament demands slightly different parameters to achieve
 
 In essence, the comprehensive print settings for 3D printed pliers encompass a meticulous balance of parameters tailored to each filament type, ensuring exceptional performance, durability, and reliability in the final product.
 
-
-<div style="text-align:center">
-    <img src="/assets/img/Pliers - Made with Clipchamp (1).gif" alt="Pliers in Action" />
-</div>
-
 ---
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e2f2a4595556ebb0d?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Multi-Material Pliers Gallery" %}
+{% include gallery caption="Phone Bike Mount Gallery" %}
