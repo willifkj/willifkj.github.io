@@ -22,9 +22,20 @@ In the quest to create a versatile bike phone holder that enhances the cycling e
 To securely attach the holder to handlebars of various diameters, a versatile screw and nut system was employed. Similarly, a screw and cap mechanism are utilized to secure a ball joint connected to the phone holder, enabling users to freely adjust and rotate their device for optimal viewing angles.
 
 Constructed entirely from PLA, a prevalent 3D printing material, the mount provides both rigidity to support the phone and threading for the ball joint connection. Additionally, the thin PLA construction offers flexibility, facilitating easy insertion and removal of the phone. This combination of rigidity and flexibility ensures stability while accommodating seamless phone adjustments, enhancing user convenience and overall functionality.
-### Assembly instructions
 
+### Assembly Instructions
 
+1. Begin by attaching the ball joint to the base mount using the provided cap. Ensure a secure connection to enable smooth movement.
+
+2. Connect the ball joint stem to the designated slot on the phone holder. This step ensures that your device will be properly secured and easily adjustable.
+
+3. Position the mount over the handlebar of your bike. Align it according to your preferred angle for optimal viewing.
+
+4. Gradually tighten the mount bolt until it forms a snug fit around the handlebar. Be cautious not to over-tighten, as this may cause damage.
+
+5. Once the mount is securely in place, test the stability by gently moving the device. If necessary, make minor adjustments to ensure a secure and stable fit.
+
+6. Your assembly is now complete! Enjoy the convenience and versatility of your newly installed bike phone holder during your rides.
 ---
 
 # CAD Model
