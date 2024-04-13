@@ -3,7 +3,7 @@ title: "Phone Bike Mount"
 excerpt: "Top-down modeled mount made with PLA"
 header:
   image: /assets/img/Vertical Phone.jpg
-  teaser: /assets/img/Pliers Final.jpg
+  teaser: /assets/img/Vertical Phone.jpg
 gallery:
   - image_path: /assets/img/Side Phone.jpg
   - image_path: /assets/img/Horizontal Phone.jpg
