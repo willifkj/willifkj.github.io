@@ -19,6 +19,9 @@ feature_row:
   - image_path: /assets/img/Pliers Final.jpg
     title: "Multi-Material Pliers"
     excerpt: "Jointless Pliers"
+  - image_path: /assets/img/Vertical Phone.jpg
+    title: "Phone Bike Mount"
+    excerpt: "Top-down Model Mount"
 ---
 
 {% include feature_row %}
