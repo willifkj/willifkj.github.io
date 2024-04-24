@@ -1,6 +1,6 @@
 ---
-title: "Phone Bike Mount"
-excerpt: "Top-down modeled mount made with PLA"
+title: "Hanger Truck"
+excerpt: "Generative SLS Printed Hanger Truck for Electtric Longbroad"
 header:
   image: /assets/img/Bike Phone Mount v45.png
   teaser: /assets/img/Vertical Phone.jpg
