@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/img/Vertical Phone.jpg
     title: "Phone Bike Mount"
     excerpt: "Top-down Model Mount"
-  - image_path: /assets/img/Vertical Phone.jpg
+  - image_path: /assets/img/Full_Skate_1.jpg
     title: "Hanger Truck for Electric Longboard"
     excerpt: "Generative SLS Printed Hanger "
 ---
