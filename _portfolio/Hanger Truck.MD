@@ -2,7 +2,7 @@
 title: "Hanger Truck"
 excerpt: "Generative SLS Printed Hanger Truck for Electtric Longbroad"
 header:
-  image: /assets/img/Truck%20Render.jpg
+  image: /assets/img/TruckRenderV2.jpg
   teaser: /assets/img/Full_Skate_1.jpg
 gallery:
   - image_path: /assets/img/Hanger_1.jpg
