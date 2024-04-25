@@ -16,6 +16,13 @@ gallery:
 
 ## Introduction to Generative Design
 
+The process of generative design begins with the input of design parameters and constraints, such as material properties, manufacturing methods, and performance requirements. These inputs are then used to generate a set of potential design solutions through iterative computational algorithms. By simulating and evaluating numerous design iterations, generative design can identify the most efficient and effective solutions based on the specified criteria.
+
+While generative design offers significant potential for innovation and optimization, it is important to note that it is not a one-size-fits-all solution. One of the primary limitations of generative design is the substantial computing power required to perform the complex simulations and iterations necessary to explore a wide range of design options. As a result, access to high-performance computing resources, such as cloud-based services, is often necessary to fully leverage the capabilities of generative design.
+
+In the context of the design process above, the computations were conducted in the cloud using the web services of Fusion, highlighting the reliance on external computing resources to support generative design activities. Additionally, it is worth noting that while generative design can be performed using specialized software tools such as ANSYS, manual iteration with a deep understanding of statics and dynamics is also a viable approach to achieving similar results. This underscores the importance of understanding when and how to leverage different design tools and resources effectively, in order to optimize the use of time and computational resources.
+
+In conclusion, generative design represents a powerful approach to design optimization, leveraging computational algorithms to explore a vast design space and identify innovative solutions. However, its effectiveness is contingent on access to substantial computing resources and a nuanced understanding of when and how to apply generative design methods within the broader design process. As such, the successful application of generative design requires a strategic approach that balances computational capabilities, domain knowledge, and resource optimization.
 
 
 
