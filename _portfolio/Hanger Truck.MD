@@ -45,7 +45,7 @@ However, it is important to note that the organic nature of the design often lea
 
 ### Ride Test
 
-<iframe width="460" height="215" src="https://drive.google.com/file/d/1eh_GeUNfMzudUYmtZ_w1nqNFLANqmRYJ/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1eh_GeUNfMzudUYmtZ_w1nqNFLANqmRYJ/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
 # CAD Models
 
