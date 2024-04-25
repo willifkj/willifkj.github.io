@@ -26,9 +26,9 @@ In conclusion, generative design represents a powerful approach to design optimi
 
 
 
-### Application: Automotive/Aerospace
+### Application: Aerospace
 
-
+Generative design has been instrumental in the optimization of aerospace components, particularly in the context of thermoplastic composites and composite materials used for structural parts in aircraft and spacecraft (Öztürk, 2021). The ability of generative design to explore and generate complex geometries has been harnessed by the aerospace industry, enabling the creation of lightweight and high-strength components critical for aerospace applications. Furthermore, the aerospace industry has leveraged generative design to address challenges related to additive manufacturing, with a focus on creating intricate and organic designs that are well-suited for aerospace applications (C, 2024). Selective Laser Sintering (SLS) and Electron Beam Melting (EBM) have been adopted in the aerospace industry for the production of components designed using generative design principles, showcasing the industry's commitment to embracing advanced manufacturing techniques (Mehrpouya et al., 2019).
 
 ### Hanger Truck Design
 
