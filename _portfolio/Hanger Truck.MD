@@ -42,11 +42,6 @@ However, it is important to note that the organic nature of the design often lea
 
 
 ---
-
-### Ride Test
-
-<iframe width="315" height="560" src="https://www.youtube.com/embed/Il9N08Tz8xw" title="Hanger Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 # CAD Models
 
 Nylon 12 Hanger Truck
@@ -56,3 +51,7 @@ ALSi10Mg Hanger Truck
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e630635d3f4952234?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Hanger Truck Gallery" %}
+
+### Ride Test
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/Il9N08Tz8xw" title="Hanger Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
