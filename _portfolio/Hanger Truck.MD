@@ -23,7 +23,7 @@ gallery:
 
 
 
-### Assembly Instructions
+### Hanger Truck Design
 
 
 ---
