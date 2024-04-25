@@ -8,7 +8,8 @@ gallery:
   - image_path: /assets/img/Hanger_1.jpg
   - image_path: /assets/img/Hanger_2.jpg
   - image_path: /assets/img/Hanger_3.jpg
-  - image_path: /assets/img/Empty Mount.jpg
+  - image_path: /assets/img/Full_Skate_1.jpg
+  - image_path: /assets/img/Full_Skate_2.jpg
 ---
 
 ## Introduction to Top-down modeling
