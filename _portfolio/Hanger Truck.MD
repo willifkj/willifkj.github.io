@@ -28,7 +28,7 @@ In conclusion, generative design represents a powerful approach to design optimi
 
 ### Application: Aerospace
 
-Generative design has been instrumental in the optimization of aerospace components, particularly in the context of thermoplastic composites and composite materials used for structural parts in aircraft and spacecraft (Öztürk, 2021). The ability of generative design to explore and generate complex geometries has been harnessed by the aerospace industry, enabling the creation of lightweight and high-strength components critical for aerospace applications. Furthermore, the aerospace industry has leveraged generative design to address challenges related to additive manufacturing, with a focus on creating intricate and organic designs that are well-suited for aerospace applications (C, 2024). Selective Laser Sintering (SLS) and Electron Beam Melting (EBM) have been adopted in the aerospace industry for the production of components designed using generative design principles, showcasing the industry's commitment to embracing advanced manufacturing techniques (Mehrpouya et al., 2019).
+Generative design has revolutionized aerospace engineering, offering innovative solutions for aircraft and spacecraft design. The aerospace industry has leveraged generative design to optimize components, particularly in thermoplastic composites and composite materials, resulting in lightweight and high-strength parts critical for aerospace applications. Additionally, generative design has facilitated the exploration of complex geometries, addressing challenges related to additive manufacturing, with a focus on creating intricate and organic designs suitable for aerospace applications. Selective Laser Sintering (SLS) and Electron Beam Melting (EBM) have been adopted for the production of components designed using generative design principles. Furthermore, generative design has played a pivotal role in multi-objective optimization within aerospace engineering, enabling the simultaneous consideration of diverse design criteria such as weight reduction, structural integrity, and aerodynamic performance. The aerospace industry has recognized the potential of generative design in achieving optimal structural designs, with a focus on minimum-weight aircraft structural components and the application of optimization methods for aerospace turbopump design. Moreover, generative design has been instrumental in addressing the complex thermodynamic inputs required for aerospace vehicle development. In conclusion, generative design has become an indispensable tool in the aerospace industry, enabling engineers and designers to push the boundaries of innovation and achieve unprecedented levels of performance, efficiency, and reliability in aircraft and spacecraft design.
 
 ### Hanger Truck Design
 
@@ -48,8 +48,11 @@ However, it is important to note that the organic nature of the design often lea
 <iframe width="560" height="315" src="https://drive.google.com/file/d/1eh_GeUNfMzudUYmtZ_w1nqNFLANqmRYJ/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
 # CAD Models
+
+Nylon 12 Hanger Truck
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ebf364e5b8d991a9c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+ALSi10Mg Hanger Truck
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e630635d3f4952234?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Hanger Truck Gallery" %}
