@@ -2,7 +2,7 @@
 title: "Hanger Truck"
 excerpt: "Generative SLS Printed Hanger Truck for Electtric Longbroad"
 header:
-  image: /assets/img/Bike Phone Mount v45.png
+  image: /assets/img/Truck%20Render.jpg
   teaser: /assets/img/Full_Skate_1.jpg
 gallery:
   - image_path: /assets/img/Side Phone.jpg
