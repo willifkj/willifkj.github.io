@@ -5,9 +5,9 @@ header:
   image: /assets/img/Truck%20Render.jpg
   teaser: /assets/img/Full_Skate_1.jpg
 gallery:
-  - image_path: /assets/img/Side Phone.jpg
-  - image_path: /assets/img/Horizontal Phone.jpg
-  - image_path: /assets/img/Vertical Phone.jpg
+  - image_path: /assets/img/Hanger_1.jpg
+  - image_path: /assets/img/Hanger_2.jpg
+  - image_path: /assets/img/Hanger_3.jpg
   - image_path: /assets/img/Empty Mount.jpg
 ---
 
